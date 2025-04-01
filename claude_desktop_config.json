@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+      "count-r": {
+        "command": "C:\\Users\\June\\Google-Search-MCP-Server\\venv\\Scripts\\python.exe",
+        "args": [
+          "C:\\Users\\June\\Google-Search-MCP-Server\\server.py"
+        ],
+        "host": "127.0.0.1",
+        "port": 8080,
+        "timeout": 30000
+      }
+    }
+}
